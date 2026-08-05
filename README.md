@@ -52,20 +52,11 @@ Implement an Information Security Management System (ISMS) aligned with ISO/IEC 
 
 ```
 ISO27001-ISMS-Implementation-Portfolio/
-│
 ├── docs/
-│   ├── 01-ISMS-Scope
-│   ├── 02-Information-Security-Policy
-│   ├── 03-Internal-Audit-Report
-│   ├── 04-CAPA-Report
-│   └── 05-Management-Review-Minutes
+│   ├── 01-ISMS-Scope.pdf
+│   └── 02-Information-Security-Policy.pdf
 │
 ├── excel/
-│   ├── 01-Asset-Register
-│   ├── 02-Risk-Register
-│   ├── 03-Risk-Treatment-Plan
-│   ├── 04-Statement-of-Applicability
-│   └── 05-Internal-Audit-Checklist
 │
 ├── screenshots/
 │
@@ -76,23 +67,29 @@ ISO27001-ISMS-Implementation-Portfolio/
 
 ---
 
-# Documents Included
+# Documents
 
-### Documentation
+## ✅ Completed
 
-- ISMS Scope
+- ISMS Scope Document
 - Information Security Policy
-- Internal Audit Report
-- Corrective Action (CAPA) Report
-- Management Review Minutes
 
-### Excel Registers
+## 🚧 In Progress
 
 - Asset Register
+
+## 📋 Planned
+
+- Risk Assessment Report
 - Risk Register
 - Risk Treatment Plan
 - Statement of Applicability (SoA)
 - Internal Audit Checklist
+- Internal Audit Report
+- Corrective Action (CAPA) Report
+- Management Review Minutes
+- Business Continuity Plan
+- Incident Response Procedure
 
 ---
 
@@ -127,7 +124,20 @@ ISO27001-ISMS-Implementation-Portfolio/
 11. Continually Improve the ISMS
 
 ---
+# Project Progress
 
+| Document | Status |
+|----------|--------|
+| ISMS Scope | ✅ Completed |
+| Information Security Policy | ✅ Completed |
+| Asset Register | 🚧 In Progress |
+| Risk Assessment | ⏳ Planned |
+| Risk Register | ⏳ Planned |
+| Risk Treatment Plan | ⏳ Planned |
+| Statement of Applicability | ⏳ Planned |
+| Internal Audit | ⏳ Planned |
+| CAPA Report | ⏳ Planned |
+| Management Review | ⏳ Planned |
 # Learning Outcomes
 
 Through this project I gained practical experience in:
@@ -144,9 +154,18 @@ Through this project I gained practical experience in:
 
 # Status
 
-🚧 **Work in Progress**
+🚧 Work in Progress
 
-This repository is continuously updated as additional ISO/IEC 27001 implementation documents and practical case studies are completed.
+**Current Progress:** 2 of 10 major ISMS deliverables completed.
+
+Completed:
+- ✅ ISMS Scope Document
+- ✅ Information Security Policy
+
+Currently Working On:
+- 🚧 Asset Register
+
+This repository will continue to be updated as additional ISO/IEC 27001:2022 implementation documents are completed.
 
 ---
 
