@@ -57,6 +57,7 @@ ISO27001-ISMS-Implementation-Portfolio/
 │   └── 02-Information-Security-Policy.pdf
 │
 ├── excel/
+│   └── 01-Asset-Register.xlsx
 │
 ├── screenshots/
 │
@@ -71,20 +72,26 @@ ISO27001-ISMS-Implementation-Portfolio/
 
 ## ✅ Completed
 
+### Documentation
 - ISMS Scope Document
 - Information Security Policy
 
+### Excel Registers
+- Asset Register
+
 ## 🚧 In Progress
 
-- Asset Register
+- Risk Assessment Report
 
 ## 📋 Planned
 
-- Risk Assessment Report
+### Excel Registers
 - Risk Register
 - Risk Treatment Plan
 - Statement of Applicability (SoA)
 - Internal Audit Checklist
+
+### Documentation
 - Internal Audit Report
 - Corrective Action (CAPA) Report
 - Management Review Minutes
@@ -130,15 +137,15 @@ ISO27001-ISMS-Implementation-Portfolio/
 |----------|--------|
 | ISMS Scope | ✅ Completed |
 | Information Security Policy | ✅ Completed |
-| Asset Register | 🚧 In Progress |
-| Risk Assessment | ⏳ Planned |
+| Asset Register | ✅ Completed |
+| Risk Assessment | 🚧 In Progress |
 | Risk Register | ⏳ Planned |
 | Risk Treatment Plan | ⏳ Planned |
 | Statement of Applicability | ⏳ Planned |
-| Internal Audit | ⏳ Planned |
+| Internal Audit Checklist | ⏳ Planned |
+| Internal Audit Report | ⏳ Planned |
 | CAPA Report | ⏳ Planned |
 | Management Review | ⏳ Planned |
-# Learning Outcomes
 
 Through this project I gained practical experience in:
 
@@ -154,18 +161,19 @@ Through this project I gained practical experience in:
 
 # Status
 
-🚧 Work in Progress
+🚧 **Work in Progress**
 
-**Current Progress:** 2 of 10 major ISMS deliverables completed.
+**Current Progress:** 3 of 11 major ISMS deliverables completed.
 
-Completed:
+### Completed
 - ✅ ISMS Scope Document
 - ✅ Information Security Policy
+- ✅ Asset Register
 
-Currently Working On:
-- 🚧 Asset Register
+### Currently Working On
+- 🚧 Information Security Risk Assessment
 
-This repository will continue to be updated as additional ISO/IEC 27001:2022 implementation documents are completed.
+This repository is continuously updated as additional ISO/IEC 27001:2022 implementation documents are completed.
 
 ---
 
