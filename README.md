@@ -50,14 +50,16 @@ Implement an Information Security Management System (ISMS) aligned with ISO/IEC 
 
 # Repository Structure
 
-```
+```text
 ISO27001-ISMS-Implementation-Portfolio/
+│
 ├── docs/
 │   ├── 01-ISMS-Scope.pdf
 │   └── 02-Information-Security-Policy.pdf
 │
 ├── excel/
-│   └── 01-Asset-Register.xlsx
+│   ├── 01-Asset-Register.xlsx
+│   └── 02-Risk-Assessment.xlsx
 │
 ├── screenshots/
 │
@@ -70,33 +72,35 @@ ISO27001-ISMS-Implementation-Portfolio/
 
 # Documents
 
-## ✅ Completed
 
-### Documentation
+---
+
+## Documents Included
+
+```markdown
+# Documents Included
+
+## Documentation
+
 - ISMS Scope Document
 - Information Security Policy
 
-### Excel Registers
+## Excel Registers
+
 - Asset Register
+- Information Security Risk Assessment
+- Risk Matrix
+- Likelihood & Impact Criteria
+- Risk Assessment Legend
 
-## 🚧 In Progress
+## Planned Documentation
 
-- Risk Assessment Report
-
-## 📋 Planned
-
-### Excel Registers
-- Risk Register
 - Risk Treatment Plan
 - Statement of Applicability (SoA)
 - Internal Audit Checklist
-
-### Documentation
 - Internal Audit Report
 - Corrective Action (CAPA) Report
 - Management Review Minutes
-- Business Continuity Plan
-- Incident Response Procedure
 
 ---
 
@@ -133,19 +137,18 @@ ISO27001-ISMS-Implementation-Portfolio/
 ---
 # Project Progress
 
-| Document | Status |
-|----------|--------|
-| ISMS Scope | ✅ Completed |
-| Information Security Policy | ✅ Completed |
-| Asset Register | ✅ Completed |
-| Risk Assessment | 🚧 In Progress |
-| Risk Register | ⏳ Planned |
-| Risk Treatment Plan | ⏳ Planned |
-| Statement of Applicability | ⏳ Planned |
-| Internal Audit Checklist | ⏳ Planned |
-| Internal Audit Report | ⏳ Planned |
-| CAPA Report | ⏳ Planned |
-| Management Review | ⏳ Planned |
+| Deliverable | Type | Status |
+|---|---|---|
+| ISMS Scope Document | Documentation | ✅ Completed |
+| Information Security Policy | Documentation | ✅ Completed |
+| Asset Register | Excel | ✅ Completed |
+| Information Security Risk Assessment | Excel | ✅ Completed |
+| Risk Treatment Plan | Excel | ⏳ Planned |
+| Statement of Applicability (SoA) | Excel | ⏳ Planned |
+| Internal Audit Checklist | Excel | ⏳ Planned |
+| Internal Audit Report | Documentation | ⏳ Planned |
+| CAPA Report | Documentation | ⏳ Planned |
+| Management Review Minutes | Documentation | ⏳ Planned |
 
 Through this project I gained practical experience in:
 
@@ -163,17 +166,20 @@ Through this project I gained practical experience in:
 
 🚧 **Work in Progress**
 
-**Current Progress:** 3 of 11 major ISMS deliverables completed.
-
 ### Completed
+
 - ✅ ISMS Scope Document
 - ✅ Information Security Policy
 - ✅ Asset Register
+- ✅ Information Security Risk Assessment
 
 ### Currently Working On
-- 🚧 Information Security Risk Assessment
 
-This repository is continuously updated as additional ISO/IEC 27001:2022 implementation documents are completed.
+- ⏳ Risk Treatment Plan
+- ⏳ Statement of Applicability (SoA)
+- ⏳ Internal Audit Checklist
+
+This repository is continuously updated as additional ISO/IEC 27001:2022 implementation documents and practical GRC deliverables are completed.
 
 ---
 
